@@ -3,7 +3,6 @@ body{
 	padding: 0px;
 	margin: 0px;
 }
-
 #banner{
 	height: 50px;
 	width: 100%;
@@ -22,7 +21,6 @@ body{
 	background-image:url(img/body1.jpg);
 	padding-top: 200px;
 	text-align: center;
-
 
 }
 #body p{
